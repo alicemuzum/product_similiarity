@@ -1,0 +1,10 @@
+.venv/
+data/*
+!data/make_views.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+ISSUES.md
